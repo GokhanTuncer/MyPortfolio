@@ -7,7 +7,7 @@ namespace MyPortfolio.DAL.Context
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=DESKTOP-EOIN7IK\\SQLEXPRESS;Database=MyPortfolioDb;Trusted_Connection=True;Integrated Security=true");
+            optionsBuilder.UseSqlServer("Server=DESKTOP-EOIN7IK\\SQLEXPRESS;Database=MyPortfolioDb;Integrated Security = True;TrustServerCertificate=true;");
         }
         public DbSet<About> Abouts { get; set; }
         public DbSet<Contact> Contacts { get; set; }
