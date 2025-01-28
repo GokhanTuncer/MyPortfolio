@@ -2,7 +2,7 @@
 
 namespace MyPortfolio.ViewComponents
 {
-    public class _PortfolioComponetPartial :ViewComponent
+    public class _PortfolioComponentPartial :ViewComponent
     {
         public IViewComponentResult Invoke()
         {
