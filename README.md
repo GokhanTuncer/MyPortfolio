@@ -15,3 +15,4 @@ Bu projede ayrıca admin paneli de bulunmaktadır.Burada Mesaj (alma/silme/okund
 ![Ekran Alıntısı5](https://github.com/user-attachments/assets/2ab1a950-9b93-425d-84aa-cc453c07c22c)
 ![Ekran Alıntısı6](https://github.com/user-attachments/assets/11ffd0ec-8e87-4d89-ad2f-9b365aff408b)
 ![Ekran Alıntısı7](https://github.com/user-attachments/assets/dd878b43-0ee6-4de0-b666-b1f629854aec)
+![ss (2025-01-30 at 01 54 42)](https://github.com/user-attachments/assets/fd47e38b-4969-4629-a935-43a9709865b9)
